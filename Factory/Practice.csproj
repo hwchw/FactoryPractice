@@ -52,20 +52,20 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="StepsToPractice\Final.jpg" />
-    <Content Include="StepsToPractice\Step1.jpg" />
+    <Content Include="StepsToPractice\Step01.jpg" />
     <Content Include="StepsToPractice\Step10.jpg" />
     <Content Include="StepsToPractice\Step11.jpg" />
     <Content Include="StepsToPractice\Step12.jpg" />
     <Content Include="StepsToPractice\Step13.jpg" />
     <Content Include="StepsToPractice\Step14.jpg" />
-    <Content Include="StepsToPractice\Step2.jpg" />
-    <Content Include="StepsToPractice\Step3.jpg" />
-    <Content Include="StepsToPractice\Step4.jpg" />
-    <Content Include="StepsToPractice\Step5.jpg" />
-    <Content Include="StepsToPractice\Step6.jpg" />
-    <Content Include="StepsToPractice\Step7_Till_Here_Is_SimpleFactory.jpg" />
-    <Content Include="StepsToPractice\Step8.jpg" />
-    <Content Include="StepsToPractice\Step9.jpg" />
+    <Content Include="StepsToPractice\Step02.jpg" />
+    <Content Include="StepsToPractice\Step03.jpg" />
+    <Content Include="StepsToPractice\Step04.jpg" />
+    <Content Include="StepsToPractice\Step05.jpg" />
+    <Content Include="StepsToPractice\Step06.jpg" />
+    <Content Include="StepsToPractice\Step07_Till_Here_Is_SimpleFactory.jpg" />
+    <Content Include="StepsToPractice\Step08.jpg" />
+    <Content Include="StepsToPractice\Step09.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
